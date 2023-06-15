@@ -7,8 +7,7 @@ This code was refactored to properly provide the correct HTML & CSS semantic str
 ## Usage
 
 [![Screenshot-2023-06-15-155626.png](https://i.postimg.cc/FsJ87jfR/Screenshot-2023-06-15-155626.png)](https://postimg.cc/RN4XYJL5)
-    ![Horiseon Website Screenshots](C:\Users\Jaden\OneDrive\Pictures\Screenshots\Screenshot 2023-06-15 155626.png)
-![Horiseon Website Screenshot](https://raw.github.com/C:\Users\Jaden\OneDrive\Pictures\Screenshots\Screenshot 2023-06-15 155626.png)
+
 ## Features
 
  https://mr-jadendjordans52.github.io/Horiseon-Accessibility-Refactor-Challenge/#social-media-marketing
